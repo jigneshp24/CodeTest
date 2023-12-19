@@ -1,0 +1,10 @@
+/Users/dharmi/Projects/ASHWorkerAPI/ASHWorkerAPI/obj/Debug/net7.0/ASHWorkerAPI.csproj.AssemblyReference.cache
+/Users/dharmi/Projects/ASHWorkerAPI/ASHWorkerAPI/obj/Debug/net7.0/ASHWorkerAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dharmi/Projects/ASHWorkerAPI/ASHWorkerAPI/obj/Debug/net7.0/ASHWorkerAPI.AssemblyInfoInputs.cache
+/Users/dharmi/Projects/ASHWorkerAPI/ASHWorkerAPI/obj/Debug/net7.0/ASHWorkerAPI.AssemblyInfo.cs
+/Users/dharmi/Projects/ASHWorkerAPI/ASHWorkerAPI/obj/Debug/net7.0/ASHWorkerAPI.csproj.CoreCompileInputs.cache
+/Users/dharmi/Projects/ASHWorkerAPI/ASHWorkerAPI/obj/Debug/net7.0/ASHWorkerAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/dharmi/Projects/ASHWorkerAPI/ASHWorkerAPI/obj/Debug/net7.0/ASHWorkerAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/dharmi/Projects/ASHWorkerAPI/ASHWorkerAPI/obj/Debug/net7.0/ASHWorkerAPI.dll
+/Users/dharmi/Projects/ASHWorkerAPI/ASHWorkerAPI/obj/Debug/net7.0/refint/ASHWorkerAPI.dll
+/Users/dharmi/Projects/ASHWorkerAPI/ASHWorkerAPI/obj/Debug/net7.0/ASHWorkerAPI.pdb

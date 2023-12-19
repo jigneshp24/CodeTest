@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASHWorkersAPI", "ASHWorkersAPI.csproj", "{0702597F-F66B-4D03-8373-EF5211F06799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0702597F-F66B-4D03-8373-EF5211F06799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0702597F-F66B-4D03-8373-EF5211F06799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0702597F-F66B-4D03-8373-EF5211F06799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0702597F-F66B-4D03-8373-EF5211F06799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3DC5E27-39AA-41D1-885E-2FAF0F7A3705}
+	EndGlobalSection
+EndGlobal

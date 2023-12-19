@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{48032343-8EEB-4593-BD4F-AE9E75193C9D}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test3/appsettings.json">
+    <Files>
+      <File FileName="Test3/Properties/launchSettings.json" />
+      <File FileName="ASHWorkerAPI.Test/WorkerControllerTests.cs" />
+      <File FileName="Test3/Program.cs" />
+      <File FileName="Test3/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASHWorkersAPI" expanded="True" selected="True">
+            <Node name="ASHWorkerAPI.Test" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ASHWorkerAPI.Test PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

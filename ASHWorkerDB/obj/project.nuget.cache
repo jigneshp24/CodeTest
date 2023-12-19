@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z5d6iFYNcPp8ZntV5vmnMjr1JpWesGrIzYau6BUBZpWn9dOCEmmyu7FO2sSU/SP4xjqMNA20064kwrY0Zg0eHg==",
+  "success": true,
+  "projectFilePath": "/Users/dharmi/ASHWorkerSolution/ASHWorkerSolution/ASHWorkerSolution.sqlproj",
+  "expectedPackageFiles": [
+    "/Users/dharmi/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/Users/dharmi/.nuget/packages/microsoft.netframework.referenceassemblies.net46/1.0.0/microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

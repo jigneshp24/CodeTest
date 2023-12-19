@@ -1,0 +1,9 @@
+/Users/dharmi/ASHWorkerSolution/ASHWorkerSolution/bin/Debug/ASHWorkerSolution.dacpac
+/Users/dharmi/ASHWorkerSolution/ASHWorkerSolution/bin/Debug/ASHWorkerSolution.dll
+/Users/dharmi/ASHWorkerSolution/ASHWorkerSolution/bin/Debug/ASHWorkerSolution.pdb
+/Users/dharmi/ASHWorkerSolution/ASHWorkerSolution/obj/Debug/Model.xml
+/Users/dharmi/ASHWorkerSolution/ASHWorkerSolution/obj/Debug/refactor.xml
+/Users/dharmi/ASHWorkerSolution/ASHWorkerSolution/obj/Debug/postdeploy.sql
+/Users/dharmi/ASHWorkerSolution/ASHWorkerSolution/obj/Debug/predeploy.sql
+/Users/dharmi/ASHWorkerSolution/ASHWorkerSolution/obj/Debug/ASHWorkerSolution.dll
+/Users/dharmi/ASHWorkerSolution/ASHWorkerSolution/obj/Debug/ASHWorkerSolution.pdb
